@@ -84,7 +84,8 @@
      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
      <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanhar16&show_icons=true&locale=en&layout=compact" alt="rohanhar16" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanhar16&show_icons=true&locale=en&layout=compact" alt="rohanhar16" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanhar16&show_icons=true&locale=en" alt="rohanhar16" /></p>
 
