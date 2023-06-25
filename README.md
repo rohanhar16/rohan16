@@ -2,7 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Rohan Harchandani</h1>
 <h3 align="center">About me</h3>
-<p align="left">🚀 Embracing the Data Revolution: Unleashing the Future World! 🌐 Greetings, fellow data enthusiasts! I am an ambitious and goal-oriented data scientist who thrives in the ever-evolving realm of data. With an unwavering passion for the revolutionary power of information, I am dedicated to pushing boundaries and reshaping the future. Masterfully bridging the gap between business and technical domains, I possess an innate talent for orchestrating seamless collaborations that result in timely, cost-effective, and impeccable program completions. Having previously served as the president of a distinguished data science association, I have honed my leadership skills and gained valuable insights into motivating cross-functional teams to accomplish extraordinary objectives. At the core of my professional philosophy lies the belief that "Data is a revolution for the future world. Let us be a part of this revolution." Guided by this mantra, I have cultivated expertise in data analytics, machine learning, and statistical analysis, enabling me to conceive and spearhead intricate digital transformation initiatives within complex global matrix organizations. As a tenacious researcher and analytical thinker, I thrive on unraveling intricate problems and crafting innovative solutions that drive meaningful change. Join me as we push the boundaries of what's possible and embark on an exhilarating journey towards a world where data reigns supreme.</p>
+<p align="left">📊🚀 Passionate about the data revolution, I'm a goal-oriented data scientist determined to unveil the untapped potential within the world of information. Bridging the gap between business and technology, I thrive in delivering exceptional results with unwavering precision, punctuality, and adherence to specifications.
+
+🌐 Having previously served as the president of a distinguished data science association, I possess the invaluable expertise to guide and inspire cross-functional teams towards accomplishing extraordinary objectives. With the mantra "Data is a revolution for the future world. Let us be a part of this revolution" etched in my mind, I embrace every opportunity to spearhead strategic and intricate digital transformation endeavors within global matrix organizations.
+
+🔍🧠 A seasoned researcher and analytical thinker, I unravel complexities through the lens of data analytics, machine learning, and statistical analysis. My exceptional communication and leadership skills further enhance my ability to thrive as a pivotal team player, enabling seamless collaboration and propelling us towards groundbreaking achievements. Together, let's shape the future through the power of data.
+
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanhar16&label=Profile%20views&color=0e75b6&style=flat" alt="rohanhar16" /> </p>
 
