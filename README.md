@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif">
+<img align="center" alt="Coding" size = 40 src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif">
 
 <h1 align="center">Hi 👋, I'm Rohan Harchandani</h1>
 <h3 align="center">About me</h3>
