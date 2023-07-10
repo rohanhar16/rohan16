@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **harchandani586@gmail.com**
 
-- 📄 My profile [Resume](https://drive.google.com/file/d/1T_Zl9nOIQq7BOP4iPWzj9CdHpaYSr-r9/view?usp=sharing)
+- 📄 My profile [Resume]([https://drive.google.com/file/d/1T_Zl9nOIQq7BOP4iPWzj9CdHpaYSr-r9/view?usp=sharing](https://drive.google.com/drive/folders/1VC2mFSM2Dy9hNEIOyPl85VPEWOk6HRED?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
